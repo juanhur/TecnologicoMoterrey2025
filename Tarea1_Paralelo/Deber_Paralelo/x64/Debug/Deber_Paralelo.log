@@ -1,0 +1,4 @@
+﻿  Deber_Paralelo.cpp
+C:\Users\JulioRamos\source\repos\Deber_Paralelo\Deber_Paralelo\Deber_Paralelo.cpp(19,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\JulioRamos\source\repos\Deber_Paralelo\Deber_Paralelo\Deber_Paralelo.cpp(20,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Deber_Paralelo.vcxproj -> C:\Users\JulioRamos\source\repos\Deber_Paralelo\x64\Debug\Deber_Paralelo.exe
